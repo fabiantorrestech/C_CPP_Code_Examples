@@ -6,6 +6,7 @@ a Youtube video, you name it.
 
 C and its cousin C++. You love 'em or you hate 'em, they're here to stay and they're the 
 languages that everyone praises for bringing in many of the features of modern-programming.
+Just one problem: SO. MUCH. STUFF. TO. REMEMBER!
  
 So here are just a few basic examples on how to do some things in C and/or C++ if you forgot.
 
